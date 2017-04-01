@@ -1,0 +1,32 @@
+insert di text, di vim itu bisa banyak cara
+seperti pake a:
+atau pake ganti
+sya pilih ahok
+atau pake ganti
+atau pake ganti
+atau pake ganti
+atau pake ganti
+
+atau pake ganti
+sya pilih anies
+ga penting nih
+
+terus apa lagi..
+ganti2 cursor..
+   jadi ini nih, bedanya ^ sama 0
+lu bisa pake 0
+
+kalo mau undo pake command u
+tapi sepertinya dipakin ke posisi buffer belom 
+write ke disk
+
+umpama,,,... ini gw save dulu yah
+
+jadi itu command terakhir yang dibuang..
+buakan di buffer..
+misal ini engga gw delete..
+gw cuma akhir aja command insert
+
+ini juga
+
+terus gw tulis lagi
