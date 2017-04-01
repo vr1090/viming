@@ -1,0 +1,11 @@
+hello ini tulisan pertama di vim.
+
+for starter:
+    buka vim ..
+    i buat insert
+    dd buat delete line
+    x buat delete characther.
+
+itu aja kali yah ..
+bye..
+
